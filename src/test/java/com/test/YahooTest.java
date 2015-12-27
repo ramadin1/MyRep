@@ -10,6 +10,8 @@ public class YahooTest {
 	public void testYahoo(){
 		WebDriver driver = new FirefoxDriver();
 		driver.get("http://yahoo.com");
-		System.out.println("Testing yahoo ");
+		String title = driver.getTitle();
+		System.out.println("Testing yahoo " + title);
+		System.out.println("Hello Abdi");
 	}
 }
