@@ -16,7 +16,9 @@ public class GoogleTest {
 	public void testGoogle(){
 		WebDriver driver = new FirefoxDriver();
 		driver.get("http://google.com");
-		System.out.println("Hello world ");
+		
+		String title = driver.getTitle();
+		System.out.println("Page Title = " + title);
 	}
 	
 	
