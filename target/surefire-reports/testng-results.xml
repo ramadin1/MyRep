@@ -2,18 +2,18 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Command line suite" duration-ms="101433" started-at="2015-12-27T20:10:41Z" finished-at="2015-12-27T20:12:22Z">
+  <suite name="Command line suite" duration-ms="65373" started-at="2015-12-28T18:30:20Z" finished-at="2015-12-28T18:31:26Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="101433" started-at="2015-12-27T20:10:41Z" finished-at="2015-12-27T20:12:22Z">
+    <test name="Command line test" duration-ms="65373" started-at="2015-12-28T18:30:20Z" finished-at="2015-12-28T18:31:26Z">
       <class name="com.test.GoogleTest">
-        <test-method status="PASS" signature="testGoogle()[pri:0, instance:com.test.GoogleTest@2d554825]" name="testGoogle" duration-ms="43865" started-at="2015-12-27T12:10:41Z" finished-at="2015-12-27T12:11:25Z">
+        <test-method status="PASS" signature="testGoogle()[pri:0, instance:com.test.GoogleTest@2d554825]" name="testGoogle" duration-ms="34277" started-at="2015-12-28T10:30:20Z" finished-at="2015-12-28T10:30:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGoogle -->
       </class> <!-- com.test.GoogleTest -->
       <class name="com.test.YahooTest">
-        <test-method status="PASS" signature="testYahoo()[pri:0, instance:com.test.YahooTest@3567135c]" name="testYahoo" duration-ms="57425" started-at="2015-12-27T12:11:25Z" finished-at="2015-12-27T12:12:22Z">
+        <test-method status="PASS" signature="testYahoo()[pri:0, instance:com.test.YahooTest@3567135c]" name="testYahoo" duration-ms="31039" started-at="2015-12-28T10:30:55Z" finished-at="2015-12-28T10:31:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testYahoo -->
